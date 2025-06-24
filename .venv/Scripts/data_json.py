@@ -1,0 +1,1 @@
+[{"question_text" : "where is arunachalasiva located?","location" : ["in arunachalasiva","near arunachalasiva","in arunachalasiva heart"],"correct_answer" : 3},{"question_text" : "where is govinda located?","location" : ["in tirumala","near tirumala","in arunachalasiva heart"],"correct_answer" : 3}]
